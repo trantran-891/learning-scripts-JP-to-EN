@@ -234,6 +234,7 @@
 わかりました  
 - Got it.
 
+[会話]
 夏休みの予定は決めましたか  
 - Have you decided on your summer vacation plans?
 
@@ -279,8 +280,9 @@
 それは助かります、ありがとうございます  
 - That helps a lot, thank you 
 
-ありがとうございます、袋はご利用になりますか
-- Thank you. Would you like a bag?
+[会話]
+袋はご利用になりますか
+- Would you like a bag?
 
 いいえ、大丈夫ですいいえ大丈夫です
 - No, I'm fine.
@@ -291,6 +293,7 @@
 ありがとうございました
 - Thank you very much.
 
+[会話]
 朝ご飯の用意をするから机の上にナイフとフォークあとお茶があるからポットもてください
 - I'm preparing breakfast, so please put the knife and fork on the table, and since there's tea, please also put out the pot.
 
@@ -300,10 +303,7 @@
 お皿は料理を乗せるから渡にくださいお皿は料理を乗せるから渡に
 - The plates are for serving the food, so please hand them to me.
 
-わかりました
-じゃ
-あナイフと 
-フォークそれとお茶のポットを机に置きますね
+わかりましたじゃあナイフと フォークそれとお茶のポットを机に置きますね
 - Understood. Then I'll put the knife, fork, and the tea pot on the table.
  
 ありがとう
@@ -331,6 +331,7 @@
 はいみんな楽しんでくださいね  
 - Yes, everyone, please enjoy it.
 
+[会話]
 今週の土曜日は図書館で3人一緒に勉強しますが何を持っていけばいいですか  
 - This Saturday, the three of us will study together at the library. What should we bring?
 
@@ -349,6 +350,7 @@
 了解です、じゃあまた土曜日に  
 - Understood, see you on Saturday then. 
 
+[会話]
 すみません東京駅まで行く電車は1番から出ますか  
 - Excuse me, does the train to Tokyo Station leave from platform 1?
 
@@ -382,6 +384,7 @@
 わかりましたありがとうございます
 - Got it, thank you.
 
+[会話]
 1日何時間ぐらい働いていますか
 - How many hours do you work in a day?
 
@@ -409,6 +412,7 @@
 それも楽しいですね休みの日はリフレッシュできるから大事です
 - That's fun too. Days off are important because you can refresh yourself.
 
+[会話]
 明日は授業が始まる前に朝ご飯を一緒に食べませんか
 - Would you like to have breakfast together before class tomorrow?
 
@@ -456,9 +460,11 @@
 
 わかりました青いバスそしてホテル前のバス停ですね
 - Got it, the blue bus and the "Hotel-mae" stop.
+
 そうです気をつけていってくださいね
 - That's right. Please be careful on your way.
 
+[会話]
 明日映画館に一緒に行きませんか
 - Would you like to go to the movie theater together tomorrow?
 
@@ -476,6 +482,8 @@
 
 わかりました
 - Understood.
+
+[会話]
 すみませんこのシャツのサイズはありますか
 - Excuse me, do you have this shirt in my size?
 
@@ -496,6 +504,7 @@ Mサイズが欲しいです
 
 サイズはどうですかぴったりですか
 - How is the size? Does it fit? 
+
 はいぴったりですこれを買います
 - Yes, it fits perfectly. I'll buy this.
 
@@ -514,9 +523,7 @@ Mサイズが欲しいです
 ありがとうございますまたお越しください
 - Thank you very much. Please come again.
 
-ありがとうございますまたお越しください
-- Thank you very much. Please come again.
-
+[会話]
 すみませんその白いカップを取ってください
 - Excuse me, could you pass me that white cup?
 
@@ -532,6 +539,7 @@ Mサイズが欲しいです
 はい, それですありがとうございます
 - Yes, that's it. Thank you.
 
+[会話]
 明日の授業ではがきの書き方を練習します
 - In tomorrow's class, we will practice how to write postcards.
 
@@ -544,6 +552,7 @@ Mサイズが欲しいです
 はいわかりました
 - Yes, understood.
 
+[会話]
 今日の仕事は終わりです帰りましょう
 - Work is done for today. Let's go home.
 
@@ -556,6 +565,7 @@ Mサイズが欲しいです
 ではこれからカレーを作りましょう
 - Now, let's make curry.
 
+[会話]
 先生私は野菜を切りましょうか
 - Teacher, should I cut the vegetables?
 
@@ -610,6 +620,7 @@ Mサイズが欲しいです
 はい、楽しみです
 - Yes, I'm looking forward to it.
 
+[会話]
 こんにちは、今日はどうしましたか
 - Hello, what brings you here today?
 
@@ -652,6 +663,7 @@ Mサイズが欲しいです
 お大事にしてくださいね
 - Please take care of yourself.
 
+[会話]
 いらっしゃいませ
 - Welcome.
 
@@ -685,6 +697,7 @@ Mサイズが欲しいです
 はい、ありがとうございます
 - Yes, thank you very much.
 
+[会話]
 すみません、wi-fiは使えますか
 - Excuse me, can I use the wi-fi?
 
@@ -709,6 +722,7 @@ Mサイズが欲しいです
 そうですか、もう一度試してみます
 - I see, I'll try again.
 
+[会話]
 すみません、電源のコンセントはありますか
 - Excuse me, do you have a power outlet?
 
@@ -727,6 +741,7 @@ Mサイズが欲しいです
 かしこまりました。ごゆっくりどうぞ
 - Certainly. Please take your time.
 
+[会話]
 すみません、トイレはどこですか
 - Excuse me, where is the restroom?
 
@@ -754,6 +769,7 @@ Mサイズが欲しいです
 お待ちしています
 - We will be waiting for you.
 
+[会話]
 すみません、今週のプロモーションはありますか
 - Excuse me, do you have any promotions this week?
 
@@ -769,6 +785,7 @@ Mサイズが欲しいです
 じゃあチーズケーキを1つお願いします
 - Then, one cheesecake please.
 
+[会話]
 皆さん、明日は古い街を見に行きます
 - Everyone, tomorrow we are going to see the old town.
 
@@ -793,6 +810,7 @@ Mサイズが欲しいです
 わかりました、じゃあ明日の朝8時半に駅で会いましょう
 - Understood, let's meet at the station at 8:30 tomorrow morning.
 
+[会話]
 こんにちは、元気ですか
 - Hello, how are you?
 
@@ -823,6 +841,7 @@ Mサイズが欲しいです
 はい、そうしましょう
 - Yes, let's do that.
 
+[会話]
 ねえ、白いシャツと青いシャツどっちがいいですか
 - Hey, which do you think is better, the white shirt or the blue shirt?
 
@@ -838,6 +857,7 @@ Mサイズが欲しいです
 そうですね、では青じゃなくて白にします
 - That's true, then I'll go with the white one instead of the blue.
 
+[会話]
 今日の授業は難しかったです
 - Today's class was difficult.
 
@@ -856,6 +876,7 @@ Mサイズが欲しいです
 はい、わかりました。では3時に行きます
 - Okay, understood. I'll come at 3.
 
+[会話]
 お客様、食後にコーヒーかデザートはいかがですか
 - Would you like coffee or dessert after your meal?
 
@@ -889,6 +910,7 @@ Mサイズが欲しいです
 わかりました
 - Understood.
 
+[会話]
 夏休みの予定は決めましたか
 - Have you decided on your summer vacation plans?
 
